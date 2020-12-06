@@ -1,4 +1,4 @@
-### Data-Structure-Project
+### Trie-search-engine
 
 Implemented a search-engine using trie data-structure for fast and efficient searching.
 
